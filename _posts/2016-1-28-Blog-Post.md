@@ -10,3 +10,5 @@ This is the current read later post that i just discovered today
  [GitHub For Beginners: Don't Get Scared, Get Started](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
  
  [PRODUCTIVITY BYTES](http://productivitybytes.com/)
+ 
+ [Laurence Bradford](http://learntocodewith.me/)
