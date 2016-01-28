@@ -5,7 +5,7 @@ title: Blog Reference
 
 This is the current read later post that i just discovered today
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+[_config.yml]
 
  [Seven Ways To Use GitHub That Aren't Coding](http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding)
  
