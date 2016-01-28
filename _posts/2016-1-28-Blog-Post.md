@@ -12,3 +12,5 @@ This is the current read later post that i just discovered today
  [PRODUCTIVITY BYTES](http://productivitybytes.com/)
  
  [Laurence Bradford](http://learntocodewith.me/)
+ 
+ [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
