@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Sham Shahar, I'm a self taught web developer with a lots of things to learn from and I love to go through it in each day of my life.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+LOL
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shamshahar](mailto:shahrulshahar@gmail.com)
